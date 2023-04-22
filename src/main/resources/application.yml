@@ -8,6 +8,7 @@ spring:
         git:
           uri: https://github.com/frcalderon/sweetify-configurations
           clone-on-start: true
+          refresh-rate: 5
 
 eureka:
   client:
